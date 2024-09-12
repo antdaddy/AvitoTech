@@ -4,7 +4,7 @@
 |Описание |Неправильное позиционирование элемента "соответствует оценке" |
 |Приоритет |Low Priority |
 |Аргументация |Это визуальная проблема, которая не влияет на функциональность сайта. Она может отвлекать пользователей, но не мешает основным функциям. |
-|Скрин |![Image alt](https://drive.google.com/file/d/15-ZeMpnAfq6DsDMyzOigC0s25Ume5Hp_/view?usp=drive_link)|
+|Скрин |![Image alt](https://github.com/antdaddy/AvitoTech/blob/main/1task/001.jpeg)|
 
 
 
