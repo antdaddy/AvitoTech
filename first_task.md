@@ -24,7 +24,7 @@
 |Описание |Съехал элемент «добавить в избранное»   |
 |Приоритет |Low Priority  |
 |Аргументация |Эта проблема влияет на удобство использования, но не критично. Пользователи все еще могут добавлять объявления в избранное, хотя и с трудностями. |
-|Скрин |![](https://drive.google.com/file/d/1jZGfdHCPBStLlcusCQ_cleobYQ_QX2FB/view?usp=drive_link)|
+|Скрин |![](https://github.com/antdaddy/AvitoTech/blob/main/1task/003.jpeg)|
 
 
 
@@ -34,7 +34,7 @@
 |Описание |Съехал элемент фотографии автомобиля в карусели фотографий   |
 |Приоритет |Medium Priority  |
 |Аргументация |Данная проблема влияет на пользовательский интерфейс и восприятие, но не критично для функциональности. |
-|Скрин |![](https://drive.google.com/file/d/1bEOyC6D16HJ-KgTUsQDOwZJj-1EO41vn/view?usp=drive_link)|
+|Скрин |![](https://github.com/antdaddy/AvitoTech/blob/main/1task/004.jpeg)|
 |||
 
 
@@ -44,7 +44,7 @@
 |Описание |Не прогружается фотография автомобиля, на месте фотографии продублирован текст из заголовка объявления   |
 |Приоритет |Medium Priority  |
 |Аргумент |Отсутствие изображения автомобиля плохо влияет на восприятие объявления. Пользователь не сможет оценить товар, что может привести к потере интереса и продаж. |
-|Скрин |![](https://drive.google.com/file/d/1tQ2GC5UN_WEv4bsPwZt0zrOZ2xiliSTx/view?usp=drive_link)|
+|Скрин |![](https://github.com/antdaddy/AvitoTech/blob/main/1task/005.jpeg)|
 
 
 
@@ -54,8 +54,8 @@
 |Описание |В выкладке по поиску «автомобили в городе Санкт - Петербург» выдает объявление о продаже автомобилей из других городов |
 |Приоритет |Medium Priority |
 |Аргумент |Эта проблема снижает релевантность результатов поиска. Пользователи могут продолжать искать автомобили, хотя это может вызвать неудобство. |
-|Скрин |![](https://drive.google.com/file/d/15ml5KpQE7irJ0puftCIRvc-dlrbedRGh/view?usp=drive_link)|
-||![](https://drive.google.com/file/d/1iBWlP1M6Uw7NVWPUCfV3cgt4tiDGoFGV/view?usp=drive_link)|
+|Скрин |![](https://github.com/antdaddy/AvitoTech/blob/main/1task/006.jpeg)|
+||![](https://github.com/antdaddy/AvitoTech/blob/main/1task/007.jpeg)|
 
 
 
@@ -65,7 +65,7 @@
 |Описание |<p>В выкладке по поиску «автомобили  - BMW x6</p><p>- полный привод» выдает объявление о продаже автомобиля BMW x6 на заднем приводе </p>|
 |Приоритет |High Priority |
 |Аргумент |Данная проблема влияет на точность поиска и может привести к недовольству пользователей, так как они ищут конкретные характеристики. |
-|Скрин |![](https://drive.google.com/file/d/1yUDA34zj-cy1drGvo0xst1DY2mmw9RTZ/view?usp=drive_link)|
+|Скрин |![](https://github.com/antdaddy/AvitoTech/blob/main/1task/008.jpeg)|
 
 
 
@@ -75,7 +75,7 @@
 |Описание |В выкладке по поиску «автомобили - BMW x6» выдает объявление о продаже запчасти, а не автомобиля |
 |Приоритет |High Priority |
 |Аргумент |Данная проблема влияет на точность поиска и может привести к недовольству пользователей, так как они ищут автомобиль, а не запчасть. (для поиска запчастей есть отдельный фильтр) |
-|Скрин |![](https://drive.google.com/file/d/1UTRR5zSAi2K3RN3eKth9XQYUvqdO_Uml/view?usp=drive_link)|
+|Скрин |![](https://github.com/antdaddy/AvitoTech/blob/main/1task/009.jpeg)|
 
 
 
@@ -85,5 +85,5 @@
 |Описание |в выкладке по поиску «автомобили - BMW x6» выдает объявление о продаже  автомобиля марки Mercedes |
 |Приоритет |High Priority |
 |Аргумент |Эта проблема нарушает функциональность поиска и может ввести пользователей в заблуждение, что негативно скажется на доверии к сервису. |
-|Скрин |![](https://drive.google.com/file/d/1QyYIVbNaSmKCzGYAp1w1KVF1o709Be3E/view?usp=drive_link)|
+|Скрин |![](https://github.com/antdaddy/AvitoTech/blob/main/1task/010.jpeg)|
 
