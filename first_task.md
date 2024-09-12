@@ -14,7 +14,7 @@
 |Описание |«2 дни назад», а должно быть «2 дня назад» |
 |Приоритет |Low Priority |
 |Аргументация |Проблема не влияет на функциональность сайта и не мешает пользователям использовать его|
-|Скрин |![](https://drive.google.com/file/d/1BvFEMxLQ1iO_h5trlIt-2sJclESMhOeQ/view?usp=drive_link)|
+|Скрин |![](https://github.com/antdaddy/AvitoTech/blob/main/1task/002.jpeg)|
 
 
 
