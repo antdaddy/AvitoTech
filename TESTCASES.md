@@ -32,9 +32,7 @@
 |Ожидаемый результат|Статус 500 internal error|
 |Реальный результат|Статус 500 internal error|
 |Серьезность|-|
-|Скрин|![Изображение выглядит как текст, снимок экрана
-
-Автоматически созданное описание](Aspose.Words.8d26749d-8be9-4285-8cf6-4d7477e18b45.002.png)|
+|Скрин |![Image alt](https://github.com/antdaddy/AvitoTech/blob/main/2task/2.png)|
 
 
 
@@ -57,14 +55,11 @@
 | :- | :- |
 |Заголовок|Создание объявления -  негативный тест2|
 |Описание|Создание объявления с полем “price” типа string (текст вместо цены)|
-|Входные данные|<p>"name": "Samsung Galaxy 10",<br>"price": "text",<br>"sellerId": 194231,<br>"statistics": {<br>`    `"contacts": 10,<br>`    `"likes": 10,<br>`    `"viewCount": 10</p><p></p>|
+|Входные данные|<p>"name": "Samsung Galaxy 10",<br>"price": "text",<br>"sellerId": 194231,<br>"statistics": {<br> "contacts": 10,<br> "likes": 10,<br> "viewCount": 10</p><p></p>|
 |Ожидаемый результат|Статус 500 internal error|
 |Реальный результат|Статус 500 internal error|
 |Серьезность|-|
-|Скрин|![Изображение выглядит как текст, снимок экрана
-
-Автоматически созданное описание](Aspose.Words.8d26749d-8be9-4285-8cf6-4d7477e18b45.003.png)|
-
+|Скрин |![Image alt](https://github.com/antdaddy/AvitoTech/blob/main/2task/3.png)|
 
 
 
@@ -83,13 +78,11 @@
 | :- | :- |
 |Заголовок|Создание объявления -  негативный тест3|
 |Описание|Создание объявления со значением “price” <0|
-|Входные данные|<p>"name": "Samsung Galaxy 10",<br>"price": -1,<br>"sellerId": 194231,<br>"statistics": {<br>`    `"contacts": 10,<br>`    `"likes": 10,<br>`    `"viewCount": 10</p><p></p>|
+|Входные данные|<p>"name": "Samsung Galaxy 10",<br>"price": -1,<br>"sellerId": 194231,<br>"statistics": {<br> "contacts": 10,<br> "likes": 10,<br> "viewCount": 10</p><p></p>|
 |Ожидаемый результат|Статус 500 internal error|
 |Реальный результат|Статус 200|
-|Серьезность|` `Major|
-|Скрин|![Изображение выглядит как текст, снимок экрана, программное обеспечение
-
-Автоматически созданное описание](Aspose.Words.8d26749d-8be9-4285-8cf6-4d7477e18b45.004.png)|
+|Серьезность| Major|
+|Скрин |![Image alt](https://github.com/antdaddy/AvitoTech/blob/main/2task/4.png)|
 
 
 
@@ -108,11 +101,11 @@
 | :- | :- |
 |Заголовок|Создание объявления -  негативный тест4|
 |Описание|Создание объявления со значением “price” None|
-|Входные данные|<p>"name": "Samsung Galaxy 10",<br>"price":  None,<br>"sellerId": 194231,<br>"statistics": {<br>`    `"contacts": 10,<br>`    `"likes": 10,<br>`    `"viewCount": 10</p><p></p>|
+|Входные данные|<p>"name": "Samsung Galaxy 10",<br>"price":  None,<br>"sellerId": 194231,<br>"statistics": {<br> "contacts": 10,<br> "likes": 10,<br> "viewCount": 10</p><p></p>|
 |Ожидаемый результат|Статус 500 internal error|
 |Реальный результат|Статус 200|
-|Серьезность|` `Major|
-|Скрин|![](Aspose.Words.8d26749d-8be9-4285-8cf6-4d7477e18b45.005.png)|
+|Серьезность| Major|
+|Скрин |![Image alt](https://github.com/antdaddy/AvitoTech/blob/main/2task/5.png)|
 
 
 
@@ -133,11 +126,11 @@
 | :- | :- |
 |Заголовок|Создание объявления -  негативный тест5|
 |Описание|Создание объявления со значением “price” >9223372036854775807|
-|Входные данные|<p>"name": "Samsung Galaxy 10",<br>"price":  9223372036854775808,<br>"sellerId": 194231,<br>"statistics": {<br>`    `"contacts": 10,<br>`    `"likes": 10,<br>`    `"viewCount": 10</p><p></p>|
+|Входные данные|<p>"name": "Samsung Galaxy 10",<br>"price":  9223372036854775808,<br>"sellerId": 194231,<br>"statistics": {<br> "contacts": 10,<br> "likes": 10,<br> "viewCount": 10</p><p></p>|
 |Ожидаемый результат|Статус 500 internal error|
 |Реальный результат|Статус 500 internal error|
-|Серьезность|` `-|
-|Скрин|![](Aspose.Words.8d26749d-8be9-4285-8cf6-4d7477e18b45.006.png)|
+|Серьезность| -|
+|Скрин |![Image alt](https://github.com/antdaddy/AvitoTech/blob/main/2task/6.png)|
 
 
 
@@ -158,11 +151,11 @@
 | :- | :- |
 |Заголовок|Создание объявления -  негативный тест6|
 |Описание|Создание объявления полем «name» = None|
-|Входные данные|<p>"name": None,<br>"price": 84999,<br>"sellerId": 194231,<br>"statistics": {<br>`    `"contacts": 10,<br>`    `"likes": 10,<br>`    `"viewCount": 10</p><p></p>|
+|Входные данные|<p>"name": None,<br>"price": 84999,<br>"sellerId": 194231,<br>"statistics": {<br> "contacts": 10,<br> "likes": 10,<br> "viewCount": 10</p><p></p>|
 |Ожидаемый результат|Статус 500 internal error|
 |Реальный результат|Статус 200|
-|Серьезность|` `Major|
-|Скрин|![](Aspose.Words.8d26749d-8be9-4285-8cf6-4d7477e18b45.007.png)|
+|Серьезность| Major|
+|Скрин |![Image alt](https://github.com/antdaddy/AvitoTech/blob/main/2task/7.png)|
 
 
 
@@ -182,11 +175,11 @@
 | :- | :- |
 |Заголовок|Создание объявления -  негативный тест7|
 |Описание|Создание объявления полем «name» типа int|
-|Входные данные|<p>"name": 123,<br>"price": 84999,<br>"sellerId": 194231,<br>"statistics": {<br>`    `"contacts": 10,<br>`    `"likes": 10,<br>`    `"viewCount": 10</p><p></p>|
+|Входные данные|<p>"name": 123,<br>"price": 84999,<br>"sellerId": 194231,<br>"statistics": {<br> "contacts": 10,<br> "likes": 10,<br> "viewCount": 10</p><p></p>|
 |Ожидаемый результат|Статус 500 internal error|
 |Реальный результат|Статус 500 internal error|
-|Серьезность|` `-|
-|Скрин|![](Aspose.Words.8d26749d-8be9-4285-8cf6-4d7477e18b45.008.png)|
+|Серьезность| -|
+|Скрин |![Image alt](https://github.com/antdaddy/AvitoTech/blob/main/2task/8.png)|
 
 
 
@@ -207,14 +200,11 @@
 | :- | :- |
 |Заголовок|Создание объявления -  негативный тест8|
 |Описание|Создание с отрицательными значениями в  «statistics»|
-|Входные данные|<p>"name": "Samsung Galaxy 10",<br>"price": 84999,<br>"sellerId": 194231,<br>"statistics": {<br>`    `"contacts": -10,<br>`    `"likes": -10,<br>`    `"viewCount": -10</p><p></p>|
+|Входные данные|<p>"name": "Samsung Galaxy 10",<br>"price": 84999,<br>"sellerId": 194231,<br>"statistics": {<br> "contacts": -10,<br> "likes": -10,<br> "viewCount": -10</p><p></p>|
 |Ожидаемый результат|Статус 500 internal error|
 |Реальный результат|Статус 200|
-|Серьезность|` `Minor|
-|Скрин|![Изображение выглядит как текст, снимок экрана, программное обеспечение
-
-Автоматически созданное описание](Aspose.Words.8d26749d-8be9-4285-8cf6-4d7477e18b45.009.png)|
-
+|Серьезность| Minor|
+|Скрин |![Image alt](https://github.com/antdaddy/AvitoTech/blob/main/2task/9.png)|
 
 
 
@@ -233,13 +223,11 @@
 | :- | :- |
 |Заголовок|Создание объявления -  негативный тест9|
 |Описание|Создание с пустыми значениями в  «statistics»|
-|Входные данные|<p>"name": "Samsung Galaxy 10",<br>"price": 84999,<br>"sellerId": 194231,<br>"statistics": {<br>`    `"contacts": None,<br>`    `"likes": None,<br>`    `"viewCount": None</p><p></p>|
+|Входные данные|<p>"name": "Samsung Galaxy 10",<br>"price": 84999,<br>"sellerId": 194231,<br>"statistics": {<br> "contacts": None,<br> "likes": None,<br> "viewCount": None</p><p></p>|
 |Ожидаемый результат|Статус 500 internal error|
 |Реальный результат|Статус 200|
-|Серьезность|` `Minor|
-|Скрин|![Изображение выглядит как текст, снимок экрана, программное обеспечение
-
-Автоматически созданное описание](Aspose.Words.8d26749d-8be9-4285-8cf6-4d7477e18b45.010.png)|
+|Серьезность| Minor|
+|Скрин |![Image alt](https://github.com/antdaddy/AvitoTech/blob/main/2task/10.png)|
 
 
 
@@ -263,10 +251,8 @@
 |Входные данные|<p>item\_id = '69a0e4dc-56b7-41f7-9f25-8153eb943fb3'</p><p></p>|
 |Ожидаемый результат|Статус 200|
 |Реальный результат|Статус 200|
-|Серьезность|` `-|
-|Скрин|![Изображение выглядит как текст, снимок экрана
-
-Автоматически созданное описание](Aspose.Words.8d26749d-8be9-4285-8cf6-4d7477e18b45.011.png)|
+|Серьезность| -|
+|Скрин |![Image alt](https://github.com/antdaddy/AvitoTech/blob/main/2task/11.png)|
 
 
 
@@ -293,10 +279,8 @@
 |Входные данные|<p>item\_id = '0010010100010010010'</p><p></p>|
 |Ожидаемый результат|Статус 404|
 |Реальный результат|Статус 404|
-|Серьезность|` `-|
-|Скрин|![Изображение выглядит как текст, снимок экрана
-
-Автоматически созданное описание](Aspose.Words.8d26749d-8be9-4285-8cf6-4d7477e18b45.012.png)|
+|Серьезность| -|
+|Скрин |![Image alt](https://github.com/antdaddy/AvitoTech/blob/main/2task/12.png)|
 
 
 
@@ -323,13 +307,8 @@
 |Входные данные|<p>item\_id = "NotRealId"</p><p></p>|
 |Ожидаемый результат|Статус 404|
 |Реальный результат|Статус 404|
-|Серьезность|` `-|
-|Скрин|![](Aspose.Words.8d26749d-8be9-4285-8cf6-4d7477e18b45.013.png)|
-
-
-
-
-
+|Серьезность| -|
+|Скрин |![Image alt](https://github.com/antdaddy/AvitoTech/blob/main/2task/13.png)|
 
 
 
@@ -351,8 +330,8 @@
 |Входные данные|<p>UNIQUE\_SELLER\_ID = 194231</p><p></p>|
 |Ожидаемый результат|Статус 200|
 |Реальный результат|Статус 200|
-|Серьезность|` `-|
-|Скрин|![](Aspose.Words.8d26749d-8be9-4285-8cf6-4d7477e18b45.014.png)|
+|Серьезность| -|
+|Скрин |![Image alt](https://github.com/antdaddy/AvitoTech/blob/main/2task/14.png)|
 
 
 
@@ -379,6 +358,6 @@
 |Входные данные|nonexistent\_seller\_id = "FakeData"|
 |Ожидаемый результат|Статус 404|
 |Реальный результат|Статус 200|
-|Серьезность|` `Major|
-|Скрин|![](Aspose.Words.8d26749d-8be9-4285-8cf6-4d7477e18b45.015.png)|
+|Серьезность| Major|
+|Скрин |![Image alt](https://github.com/antdaddy/AvitoTech/blob/main/2task/15.png)|
 
