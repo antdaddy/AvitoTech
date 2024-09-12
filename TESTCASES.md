@@ -2,13 +2,13 @@
 | :- | :- |
 |Заголовок|Создание объявления - позитивный тест|
 |Описание|Успешное создание объявления с корректными данными|
-|Входные данные|<p>""name": "Samsung Galaxy 10",<br>"price": 84999,<br>"sellerId":194231,<br>"statistics": {<br> "contacts": 10,<br>`    `"likes": 10,<br>`    `"viewCount": 10</p><p></p><p></p>|
+|Входные данные|<p>""name": "Samsung Galaxy 10",<br>"price": 84999,<br>"sellerId":194231,<br>"statistics": {<br> "contacts": 10,<br> "likes": 10,<br> "viewCount": 10</p><p></p><p></p>|
 |Ожидаемый результат|Статус 200 OK|
 |Реальный результат|Статус 200 OK|
 |Серьезность|-|
-|Скрин|![Изображение выглядит как текст, снимок экрана
+|Скрин |![Image alt](https://github.com/antdaddy/AvitoTech/blob/main/2task/1.png)|
 
-Автоматически созданное описание](Aspose.Words.8d26749d-8be9-4285-8cf6-4d7477e18b45.001.png)|
+
 
 
 
